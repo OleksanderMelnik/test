@@ -1,0 +1,2 @@
+var o=function(o,l){console.log("result = "+o/l)};const l=new class{constructor(o,l,s,n){this.name=o,this.surname=l,this.age=s,this.email=n}}("Oleksandr","Melnik","37","almel@gmail.com");var s,n;s=45,n=5,console.log(`result = ${s+n}`),function(o,l){console.log("result = "+(o-l))}(45,10),o(16,2),function(o,l){console.log("result = "+o*l)}(5,5),console.log(l);
+//# sourceMappingURL=index.1e3e839b.js.map
